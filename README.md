@@ -1,4 +1,3 @@
-# AwsAssignment
 # AWS Services Overview: S3, Lambda, and RDS
 
 ## Amazon S3 (Simple Storage Service)
